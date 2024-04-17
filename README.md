@@ -1,13 +1,18 @@
+[![Facebook Link](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hoomexsun.pangz)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hoomexsun&style=flat-square&color=red)
+
 # Hello People 👋
 
-ꯑꯩꯒꯤ ꯃꯤꯡ **ꯍꯨꯃꯦꯛꯁꯟ**
-ꯂꯦꯡꯁꯤꯟꯕꯤꯔꯀꯁꯤ
+ꯑꯩꯒꯤ ꯃꯤꯡ **ꯍꯨꯃꯦꯛꯁꯟ** :smile:
+
+ꯂꯦꯡꯁꯤꯟꯕꯤꯔꯛꯁꯤ :pray:
 
 _If the above text is not visible, download [Noto Sans Meetei Mayek](https://fonts.google.com/noto/specimen/Noto+Sans+Meetei+Mayek) from Google Fonts, install it and add it to your browser._
 
 [Click here to learn how to type Meetei Mayek in Windows](https://github.com/hoomexsun/mm_keyboard)
 
-## :star: About me & my repos
+## :star: About me
 
 ```yaml
 name: Hoomexsun Pangsatabam
@@ -24,13 +29,11 @@ education:
 hobbies: ["sleeping", "gaming"]
 ```
 
+## :fire: Explore my repos
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoomexsun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## :fire: Explore
-
-### Introduction to Programming Languages
-
-- currently under development :gear:
+### Introduction to Programming Languages :gear:
 
 1. **[tamse_c](https://github.com/hoomexsun/tamse_c)**: Introduction to **C** Programming.
 2. **[tamse_py](https://github.com/hoomexsun/tamse_py)**: Introduction to **Python** Programming.
@@ -40,6 +43,6 @@ hobbies: ["sleeping", "gaming"]
 
 ### Promoting My Language (ꯃꯤꯇꯩ/ꯃꯩꯇꯩ ꯃꯌꯦꯛ)
 
-꯱. **[mm_keyboard](https://github.com/hoomexsun/xlit)**: Meetei Mayek Keyboard for windows developed using MSKLC.
-꯲. **[xlit](https://github.com/hoomexsun/xlit)**: Glyph Correction and Machine Transliteration.
-꯳. **[xlit_gui](https://github.com/hoomexsun/xlit)**: xlit in gui using tkinter.
+1. **[mm_keyboard](https://github.com/hoomexsun/xlit)**: Meetei Mayek Keyboard for windows (developed using MSKLC).
+2. **[xlit](https://github.com/hoomexsun/xlit)**: Glyph Correction and Machine Transliteration.
+3. **[xlit_gui](https://github.com/hoomexsun/xlit)**: xlit in gui using tkinter.
