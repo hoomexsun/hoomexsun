@@ -2,11 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hoomexsun&style=flat-square&color=red)
 
-# Hello People 👋
-
-ꯑꯩꯒꯤ ꯃꯤꯡ **ꯍꯨꯃꯦꯛꯁꯟ** :smile:
-
-ꯂꯦꯡꯁꯤꯟꯕꯤꯔꯛꯁꯤ :pray:
+# Hello People 👋 ꯈꯨꯔꯨꯝꯖꯔꯤ :pray:
 
 _If the above text is not visible, download [Noto Sans Meetei Mayek](https://fonts.google.com/noto/specimen/Noto+Sans+Meetei+Mayek) from Google Fonts, install it and add it to your browser._
 
@@ -40,9 +36,10 @@ hobbies: ["sleeping", "gaming"]
 3. **[tamse_java](https://github.com/hoomexsun/tamse_java)**: Introduction to **Java** Programming.
 4. **[tamse_kt](https://github.com/hoomexsun/tamse_kt)**: Introduction to **Kotlin** Programming.
 5. **[tamse_cpp](https://github.com/hoomexsun/tamse_cpp)**: Introduction to **C++** Programming.
+6. **[tamse_sh](https://github.com/hoomexsun/tamse_sh)**: Introduction to **Shell** Programming.
 
 ### Promoting My Language (ꯃꯤꯇꯩ/ꯃꯩꯇꯩ ꯃꯌꯦꯛ)
 
-1. **[mm_keyboard](https://github.com/hoomexsun/xlit)**: Meetei Mayek Keyboard for windows (developed using MSKLC).
+1. **[mm_keyboard](https://github.com/hoomexsun/mm_keyboard)**: Meetei Mayek Keyboard for windows (developed using MSKLC).
 2. **[xlit](https://github.com/hoomexsun/xlit)**: Glyph Correction and Machine Transliteration.
-3. **[xlit_gui](https://github.com/hoomexsun/xlit)**: xlit in gui using tkinter.
+3. **[xlit_gui](https://github.com/hoomexsun/xlit_gui)**: xlit in gui using tkinter.
